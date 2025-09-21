@@ -79,7 +79,7 @@ The main in-memory store is defined under the `storage.lookup` attribute in the 
 lookup = "redis"
 ```
 
-Although Stalwart requires a default in-memory store, it is possible to define multiple in-memory stores to be used from expressions](/docs/configuration/expressions/overview) and [Sieve scripts](/docs/sieve/overview). 
+Although Stalwart requires a default in-memory store, it is possible to define multiple in-memory stores to be used from [expressions](/docs/configuration/expressions/overview) and [Sieve scripts](/docs/sieve/overview). 
 
 ## Maintenance
 
